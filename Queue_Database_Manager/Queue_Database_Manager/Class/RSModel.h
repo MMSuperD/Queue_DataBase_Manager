@@ -14,6 +14,8 @@ NS_ASSUME_NONNULL_BEGIN
 
 @property(nonatomic,strong)NSNumber *fanNumber;
 
+@property(nonatomic,strong)NSNumber *queenNumber;
+
 @end
 
 NS_ASSUME_NONNULL_END
