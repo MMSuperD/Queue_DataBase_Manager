@@ -12,6 +12,8 @@ NS_ASSUME_NONNULL_BEGIN
 
 @interface RSModel : NSObject
 
+@property(nonatomic,strong)NSNumber *fanNumber;
+
 @end
 
 NS_ASSUME_NONNULL_END
